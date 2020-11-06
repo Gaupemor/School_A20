@@ -1,9 +1,9 @@
-# Skoleprosjekt_H20
+# Mandatory 1
+## Interpreter w/object-oriented programming language
 
-Mandatory assignment.  
 Implementation of an interpreter of a simple, made-up programming language.
 
-### Compile & run
+## Compile & run
 
 Compile:
 ```bash
