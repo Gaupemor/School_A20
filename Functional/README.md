@@ -1,4 +1,5 @@
-# selmafs IN3040 mandatory2
+# Mandatory 2
+### Interpreter w/ functional programming language
 
 ## Files
 - Oblig.sml
